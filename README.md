@@ -3,8 +3,9 @@
 ## Project Overview
 This project aims to provide the business insights of the E-Commerce performance from 2021–2022 for a grocery store
  
-
-
+# Table of Content
+- [Project Steps](#project-steps)
+- [SQL Queries](#sql-queries)
 ## Tools
 - SQL - design,implement and analyze [Download here](https://microsoft.com)
 - Power BI
@@ -27,6 +28,7 @@ patterns, and key metrics.
 - Analyze sales data to identify popular products, customer purchasing
 behaviors, seasonal trends, etc.
 
+### SQL Queries
 ```SQL
 -- 1
 CREATE VIEW product_orders AS 
